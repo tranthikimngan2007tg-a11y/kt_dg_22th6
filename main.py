@@ -59,7 +59,7 @@ def main():
         print("\n========== RPG GAME CORE MENU ==========")
         print("1. Khởi tạo Ma kiếm sĩ Spellblade & Xem cấu trúc MRO")
         print("2. Ra lệnh tấn công & kích hoạt chiến trường (Duck Typing)")
-        print("0. Thoát")
+        print("3. Thoát")
         choice = input("Chọn chức năng (1-2): ")
 
         match choice:
