@@ -62,7 +62,7 @@ def main():
         print("0. Thoát")
         choice = input("Chọn chức năng (1-2): ")
 
-        match choise:
+        match choice:
             case "1":
                 try:
                     hp = int(input("Nhập HP cơ bản: "))
